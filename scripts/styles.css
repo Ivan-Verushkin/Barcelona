@@ -17,16 +17,17 @@ body{
 .fifa{
     position: absolute;
     margin-top: 100px;
-    margin-left: 1050px;
+    margin-left: 55%;
     width: 400px;
 }
 
 .barsa{
     position: absolute;
     margin-top: 440px;
-    margin-left: 100px;
+    margin-left: 5%;
     width: 200px;
 }
+
 
 .para1{
     position:absolute;
