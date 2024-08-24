@@ -1,0 +1,78 @@
+img{
+    width: 100%;
+    margin: 0;
+}
+
+body{
+    background-image: url('levandowsky.jpg');
+    background-size: cover;
+    background-position: center top; 
+    height: 2200px;
+}
+
+.fifa{
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 1050px;
+    width: 400px;
+}
+
+.barsa{
+    position: absolute;
+    margin-top: 440px;
+    margin-left: 100px;
+    width: 200px;
+}
+
+.para1{
+    position:absolute;
+    margin-top: 200px;
+    margin-left: 200px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 60px;
+}
+
+.para2{
+    position:absolute;
+    margin-top: 720px;
+    margin-left: 1150px;
+    width: 500px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 60px;
+}
+
+.para3{
+    position:absolute;
+    margin-top: 900px;
+    margin-left: 350px;
+    width: 500px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 60px;
+}
+
+.para4{
+    position:absolute;
+    margin-top: 1200px;
+    margin-left: 550px;
+    width: 500px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 60px;
+}
+
+.para5{
+    position:absolute;
+    margin-top: 1400px;
+    margin-left: 750px;
+    width: 500px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 60px;
+}
+
+.para6{
+    position:absolute;
+    margin-top: 1750px;
+    margin-left: 760px;
+    width: 500px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 60px;
+}
