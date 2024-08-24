@@ -5,11 +5,11 @@ img{
 
 body {
     background-image: url('levandowsky.jpg');
-    background-size: cover;
-    background-position: center top;
+     background-size: cover;
+    background-position: center;
     background-repeat: no-repeat;
+    height: 100%;
     width: 100%;
-    height: 100vh; /* Adjust height to fill the viewport height */
     margin: 0;
 }
 
