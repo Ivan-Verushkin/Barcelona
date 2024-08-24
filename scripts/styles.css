@@ -8,6 +8,7 @@ body{
     background-size: cover;
     background-position: center top; 
     height: 2200px;
+    background-repeat: no-repeat;
 }
 
 .fifa{
