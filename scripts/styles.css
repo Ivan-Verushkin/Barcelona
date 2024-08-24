@@ -3,13 +3,14 @@ img{
     margin: 0;
 }
 
-body {
+
+body{
     background-image: url('levandowsky.jpg');
-     background-size: cover;
-    background-position: center;
+    background-size: cover;
+    background-position: center top; 
+    height: 2200px;
     background-repeat: no-repeat;
     width: 100%;
-    margin: 0;
 }
 
 
